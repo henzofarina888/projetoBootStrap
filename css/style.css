@@ -3,11 +3,11 @@ body{
 }
 
 .navbar {
-    background-color: aquamarine;
+    background-color: rgb(147, 212, 25);
 }
 
 .quem-somos{
-    background-color:bisque;
+    background-color:rgba(255, 228, 196, 0.466);
 }
 
 .margin{
